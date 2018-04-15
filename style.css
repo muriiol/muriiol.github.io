@@ -1,0 +1,87 @@
+* { margin:0; padding:0; }
+ul {
+    list-style:none;
+}
+
+a {
+    text-decoration:none;
+}
+
+.navi {
+    display:block;
+    background-color:#AD8EDB;
+    text-align:center;
+    padding:8px 15px;
+    overflow:auto;
+}
+.navi a {
+    color:#fff;
+    float:left;
+    width:50%;
+    font-weight:bold;
+}
+
+header {
+    height:400px;
+    background-image: url('http://blog.visme.co/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-03.jpg');
+}
+.main_title {
+    text-align:center;
+    font-size:26px; color:#58496F;
+    padding-top:174px;
+}
+
+.index_title {
+    text-align:center;
+    margin-top:70px;
+}
+
+.index_a {
+    text-decoration:underline;
+    color:#000;
+}
+
+.return_home {
+    display:inline-block;
+    padding:7px;
+    background-color:#AD8EDB; color:#fff;
+    font-weight:bold;
+}
+
+hr {
+    margin-top:30px; margin-bottom:15px;
+}
+
+.container {
+    display:block;
+    margin:auto;
+    overflow:auto;
+}
+.nemo img {
+    float:left;
+    width:33%;
+    transition:all 0.4s ease;
+}
+.nemo img:hover {
+    opacity:0.6;
+}
+
+.coment {
+    background-color:#AD8EDB;
+    padding:8px 15px;
+    overflow:auto;
+    
+}
+.coment p {
+    float:left;
+    width:33%;
+    text-align:center;
+    color:#fff; font-weight:bold;
+}
+
+.foot {
+    clear: both;
+    font-size:13px;
+    padding:10px;
+    background-color:rgba(124, 109, 147, 0.3);
+}
